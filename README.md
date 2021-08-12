@@ -1,2 +1,3 @@
-# projeto-instagram
-Minha tentativa de recriar a interface do instagram.
+# Recriando a página inicial do Instagram
+
+Repositório para o desafio da Digital Innovation One no bootcamp HTML Web Developer
